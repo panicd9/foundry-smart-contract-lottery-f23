@@ -1,3 +1,10 @@
+# Proveably Random Raffle Contracts
+
+## About 
+
+This code is to create a proveably random smart contract lottery.
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
